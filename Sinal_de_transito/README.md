@@ -49,7 +49,7 @@ Abaixo está a disposição dos componentes e das ligações elétricas projetad
 
 ---
 
-## 🚀 Como Executar o Projeto
+## Como Executar o Projeto
 
 1. Cria um novo circuito na tua conta do [Tinkercad](https://www.tinkercad.com/).
 2. Monta os componentes seguindo o esquema visual apresentado acima.
